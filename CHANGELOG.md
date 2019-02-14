@@ -6,6 +6,5 @@ This file is used to list changes made in each version of the googlechrome cookb
 
 Initial release.
 
-- change 0
-- change 1
-
+- Wrapper for chrome cookbook
+- Homepage set to [Chrome page](https://www.google.com/chrome)
